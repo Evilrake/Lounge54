@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+data/admin.json
+data/stock.xlsx
+data/orders.json
 
 # Editor directories and files
 .vscode/*
